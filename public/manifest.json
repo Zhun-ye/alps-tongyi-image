@@ -1,8 +1,8 @@
 {
-  "identifier": "alps-tongyi-image",
+  "identifier": "tongyi-image",
   "api": [
     {
-      "url": "https://alps-tongyi-image.vercel.app/api/generate",
+      "url": "https://tongyi-image.vercel.app/api/generate",
       "name": "generateImage",
       "description": "Generate an image based on the given prompt using Alibaba's Tongyi Wanxiang model",
       "parameters": {
