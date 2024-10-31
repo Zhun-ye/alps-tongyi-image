@@ -3,7 +3,7 @@
   "api": [
     {
       "url": "https://tongyi-image.vercel.app/api/generate",
-      "name": "generateImage",
+      "name": "txt2Image",
       "description": "Generate an image based on the given prompt using Alibaba's Tongyi Wanxiang model",
       "parameters": {
         "type": "object",
